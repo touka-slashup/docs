@@ -7,23 +7,23 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#111111",
+    "light": "#FFFFFF",
+    "dark": "#111111",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#111111",
+      "to": "#FFFFFF"
     }
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Contact",
+      "url": "mailto:hello@koors.io"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Démarrez gratuitement",
+    "url": "https://welcome.koors.io/client-form/cea9ca8e-0689-11ed-b939-0242ac120002"
   },
   "tabs": [
     {
@@ -73,6 +73,6 @@
   "footerSocials": {
     "twitter": "https://twitter.com/mintlify",
     "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "linkedin": "https://fr.linkedin.com/company/koors"
   }
 }
