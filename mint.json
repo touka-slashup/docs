@@ -7,12 +7,12 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#111111",
-    "light": "#FFFFFF",
-    "dark": "#111111",
+    "primary": "#FE7D3D",
+    "light": "#FE7D3D",
+    "dark": "#FE7D3D",
     "anchors": {
-      "from": "#111111",
-      "to": "#FFFFFF"
+      "from": "#FE7D3D",
+      "to": "#FE7D3D"
     }
   },
   "topbarLinks": [
@@ -71,8 +71,9 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
     "linkedin": "https://fr.linkedin.com/company/koors"
+    "facebook": "https://www.facebook.com/Koors.io/",
+    "instagram": "https://www.instagram.com/koors.io/",
+
   }
 }
